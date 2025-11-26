@@ -1,0 +1,9 @@
+F:\Rider Code\Code\DebugTool\DebugTool\bin\Debug\DebugTool.exe.config
+F:\Rider Code\Code\DebugTool\DebugTool\bin\Debug\DebugTool.exe
+F:\Rider Code\Code\DebugTool\DebugTool\bin\Debug\DebugTool.pdb
+F:\Rider Code\Code\DebugTool\DebugTool\obj\Debug\DebugTool.csproj.AssemblyReference.cache
+F:\Rider Code\Code\DebugTool\DebugTool\obj\Debug\DebugTool.Properties.Resources.resources
+F:\Rider Code\Code\DebugTool\DebugTool\obj\Debug\DebugTool.csproj.GenerateResource.cache
+F:\Rider Code\Code\DebugTool\DebugTool\obj\Debug\DebugTool.csproj.CoreCompileInputs.cache
+F:\Rider Code\Code\DebugTool\DebugTool\obj\Debug\DebugTool.exe
+F:\Rider Code\Code\DebugTool\DebugTool\obj\Debug\DebugTool.pdb
